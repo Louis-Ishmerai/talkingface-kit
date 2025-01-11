@@ -1,0 +1,13 @@
+numpy==1.23.5
+pandas
+flask
+omegaconf
+fairseq
+tqdm
+configargparse
+wandb
+fastdtw
+dataloaders
+scikit-learn
+numba
+torch
