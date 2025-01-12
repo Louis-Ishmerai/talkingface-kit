@@ -73,6 +73,7 @@ run ```bash test.sh``` to test
 
 ###### 8.docker
 我们将项目封装成Docker镜像，镜像源地址 https://hub.docker.com/repository/docker/louisishmerai/model
+
 如果您已经下载了Docker，可直接拉取使用
 ```
 docker pull louisishmerai/model:20250111
